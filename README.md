@@ -11,15 +11,12 @@ These instructions will guide you through the process of creating your hello wor
 You will need a few things to get started:
 
 Install code editor
-```
-Download and install [VS Code](https://code.visualstudio.com/Download)
-```
+
+* Download and install [VS Code](https://code.visualstudio.com/Download)
 
 Install Python
 
-```
-Download and install [Python](https://www.python.org/downloads/)
-```
+* Download and install [Python](https://www.python.org/downloads/)
 
 ## Writing the code
 
