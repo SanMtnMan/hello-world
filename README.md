@@ -22,7 +22,7 @@ Install Python
 
 Here is the code we will be adding to the editor:
 
-```
+```python
 #!/usr/bin/env python3
 print('hello world')
 ```
